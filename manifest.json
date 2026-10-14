@@ -1,5 +1,5 @@
 {
-  "name": "Himnario Cristiano",
+  "name": "Cantos Espirituales",
   "short_name": "Himnario",
   "description": "Reproductor de himnos y cantos cristianos",
   "start_url": "./index.html",
@@ -9,12 +9,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "Himnario-Cristiano.png",
+      "src": "cantos-espirituales.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "Himnario-Cristiano.png",
+      "src": "cantos-espirituales.png",
       "sizes": "512x512",
       "type": "image/png"
     }
