@@ -24,7 +24,6 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
-
             {
                 title: "001 - Iglesia de Cristo",
                 artist: "Cantos Espirituales",
@@ -36,7 +35,6 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
-			
             {
                 title: "002 - Canta, oh Buen Cristiano",
                 artist: "Cantos Espirituales",
@@ -48,7 +46,6 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
-			
             {
                 title: "003 - Invocación a la Trinidad",
                 artist: "Cantos Espirituales",
@@ -60,7 +57,6 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
-			
             {
                 title: "004 - No te de Temor Hablar por Cristo",
                 artist: "Cantos Espirituales",
@@ -72,7 +68,50 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
-			
+            {
+                title: "005 - Oh, Bondad tan Infinita",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/96641xx1cffknhc86ww1g/05-Oh-Bondad-Tan-Infinita-Figuras.pdf?rlkey=sq3587e35c8omvzghvbo9tep0&st=0clsqoam&dl=0",
+                src: "https://www.dropbox.com/scl/fi/2nh3htmexumnd3bms8bb1/5-Oh-Bondad-tan-Infinita.mp3?rlkey=p6rds5lys52w6vcxe5b8zjbrf&st=4ywfucnu&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "006 - Bellas Palabras de Vida",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/spkpvt8vxa3ikokdo5os5/06-Bellas-Palabras-de-Vida-Figuras.pdf?rlkey=2lxlbbea60nyk82itr7dp5ms7&st=1zigcxtp&dl=0",
+                src: "https://www.dropbox.com/scl/fi/xnoa12sj84bot4g1urms5/6-Bellas-Palabras-de-Vida.mp3?rlkey=ilzeijn4gjfjgl886dvupm3ig&st=5cgi9wf5&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "007 - De Heladas Cordilleras",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/33tzurrdveu15jmrlb2ij/07-De-Heladas-Cordilleras-Figuras.pdf?rlkey=mjoej9iiru7018qq2zpodx9ir&st=9sau5ha5&dl=0",
+                src: "https://www.dropbox.com/scl/fi/n580sb54p9e54btgkk42v/7-De-Heladas-Cordilleras.mp3?rlkey=oqohb2ub20dv9kqhn8pg6ocx5&st=12cshjpy&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "008 - Gloria a la Trinidad",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/btvl0tt2b4wuq6q50q9xl/08-Gloria-A-La-Trinidad-Figuras.pdf?rlkey=w4obs3qhri5dep4zsk32dehih&st=1v2rq128&dl=0",
+                src: "https://www.dropbox.com/scl/fi/d05sa7nkn6cyhkkl4f96j/8-Gloria-a-la-Trinidad.mp3?rlkey=xtbgaqiuzr2wuzb61njouf5d7&st=68bpqiuu&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             {
                 title: "249 - A la tierra de Canaán",
                 artist: "Cantos Espirituales",
