@@ -113,6 +113,28 @@
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
+                title: "009 - Lugar para Cristo",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: " ",
+                src: "https://www.dropbox.com/scl/fi/ag6vmdfgwwty2ad7a6vbp/9-Lugar-para-Cristo.mp3?rlkey=m9wh7tr0whehbvh524kiczc68&st=2sj7j2oe&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "010 - Cristo el Rey de Gloria",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: " ",
+                src: "https://www.dropbox.com/scl/fi/913u0bl18huy3p73k3dcl/10-Cristo-el-Rey-de-Gloria.mp3?rlkey=koackbwvncq72d04y9oa3wrix&st=w5vjy33o&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
                 title: "249 - A la tierra de Canaán",
                 artist: "Cantos Espirituales",
                 temas: [],
