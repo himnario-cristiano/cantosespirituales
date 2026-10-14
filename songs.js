@@ -42,7 +42,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/vbtnsi5szv1gbqz4njeyn/02-Canta-Oh-Buen-Cristiano-Figuras.pdf?rlkey=e7tr2ys85s67ct6uwbfvreaf0&st=tlx7i6xa&dl=0",
                 src: "https://www.dropbox.com/scl/fi/iptnqzjiju5xx5aa3thsm/2-Canta-oh-Buen-Cristiano.mp3?rlkey=djax9b5opa8jvrmxekey82sqk&st=zk9rp4ek&dl=0",
                 references: [
 					
@@ -54,7 +54,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/qh7kg4g9ud3tjio8k4czg/03-Invocacion-A-La-Trinidad-Figuras.pdf?rlkey=xc5hs8o3qt778qudxlmppuv64&st=0sqn3fno&dl=0",
                 src: "https://www.dropbox.com/scl/fi/821m77b3e89s8ert5q9ms/3-Invocaci-n-a-la-Trinidad.mp3?rlkey=q3bqas80q6ll4x4yq9p8qf656&st=sgusgt3a&dl=0",
                 references: [
 					
@@ -66,7 +66,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/09omrbr4t01zvrqsvt9lo/04-No-Te-D-Temor-Hablar-Por-Cristo-Figuras.pdf?rlkey=hqpn4jci4ux932kgzccvwkpg1&st=tkz0lvcy&dl=0",
                 src: "https://www.dropbox.com/scl/fi/9s2f0z0gastxmqjmsgrlw/4-No-te-de-Temor-Hablar-por-Cristo.mp3?rlkey=2e07x8eu9buhm6y4uws2de0us&st=vt09ncld&dl=0",
                 references: [
 					
@@ -78,7 +78,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/pqt3b7iluhlk4r0f8zqfl/249-A-La-Tierra-De-Cana-n-16_9.pdf?rlkey=uwbxosd5881o3dijlewzly9ux&st=42giv9ig&dl=0",
                 src: "https://www.dropbox.com/scl/fi/77r9sw7cfvesucmiwk8zv/249-A-la-tierra-de-Cana-n.mp3?rlkey=kdcuuh5c0mmu9wmpzo1psinfr&st=dyq8xd6y&dl=0",
                 references: [
 					
