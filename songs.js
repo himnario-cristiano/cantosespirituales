@@ -117,7 +117,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: " ",
+        		partitura: "https://www.dropbox.com/scl/fi/f32a6cx49l5smcjrcidep/09-Lugar-Para-Cristo-Figuras.pdf?rlkey=40wj9o3wmawqazawno9z2pjtt&st=nmac901w&dl=0",
                 src: "https://www.dropbox.com/scl/fi/ag6vmdfgwwty2ad7a6vbp/9-Lugar-para-Cristo.mp3?rlkey=m9wh7tr0whehbvh524kiczc68&st=2sj7j2oe&dl=0",
                 references: [
 					
@@ -128,7 +128,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: " ",
+        		partitura: "https://www.dropbox.com/scl/fi/vkr1ypts57w52k8r3fcpl/10-Cristo-El-Rey-De-Gloria-Figuras.pdf?rlkey=cy1ipzkcdgul0umy93jdvqc3b&st=8ww7c9qy&dl=0",
                 src: "https://www.dropbox.com/scl/fi/913u0bl18huy3p73k3dcl/10-Cristo-el-Rey-de-Gloria.mp3?rlkey=koackbwvncq72d04y9oa3wrix&st=w5vjy33o&dl=0",
                 references: [
 					
