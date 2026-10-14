@@ -38,12 +38,48 @@
             },
 			
             {
-                title: "000 - ",
+                title: "002 - Canta, oh Buen Cristiano",
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: " ",
-                src: " ",
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/iptnqzjiju5xx5aa3thsm/2-Canta-oh-Buen-Cristiano.mp3?rlkey=djax9b5opa8jvrmxekey82sqk&st=zk9rp4ek&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+			
+            {
+                title: "003 - Invocación a la Trinidad",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/821m77b3e89s8ert5q9ms/3-Invocaci-n-a-la-Trinidad.mp3?rlkey=q3bqas80q6ll4x4yq9p8qf656&st=sgusgt3a&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+			
+            {
+                title: "004 - No te de Temor Hablar por Cristo",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/9s2f0z0gastxmqjmsgrlw/4-No-te-de-Temor-Hablar-por-Cristo.mp3?rlkey=2e07x8eu9buhm6y4uws2de0us&st=vt09ncld&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+			
+            {
+                title: "249 - A la tierra de Canaán",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/77r9sw7cfvesucmiwk8zv/249-A-la-tierra-de-Cana-n.mp3?rlkey=kdcuuh5c0mmu9wmpzo1psinfr&st=dyq8xd6y&dl=0",
                 references: [
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
