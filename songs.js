@@ -135,6 +135,116 @@
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
+                title: "011 - Hay un Lugar do Quiero Estar",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/9rb0009f53mesdrn8t6sv/11-Hay-un-Lugar-do-Quiero-Estar.mp3?rlkey=1ukijcdqtt30243dm484n3pty&st=httmzpa3&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "012 - Roca de la Eternidad",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/fcclc2d3ggn8sy6n665d0/12-Roca-de-la-Eternidad.mp3?rlkey=m7nutk83gxfkzyxdsa6wftnw0&st=wdn5rqzz&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "013 - Dulce Oracion",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/g2q82lct6ec8epeq0w7l6/13-Dulce-Oracion.mp3?rlkey=igsc4dupgvfy2vk6mjzfvcv6l&st=r29nt1dd&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "014 - Oh, que Amigo",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/19lj2e9s9a59nygab1nr6/14-Oh-que-Amigo.mp3?rlkey=ahil2s1cbqqh3ppr8fryz4uhl&st=9c9vc1kz&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "015 - Señor nos Recordamos",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/liek5s8xymi5n3pyomkal/15-Se-or-nos-Recordamos.mp3?rlkey=pzl9m47lvt55544zclv11wngc&st=obraz64w&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "016 - Cerca de Ti, Señor",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/d8h8eondk37u6prarc4fs/16-Cerca-de-Ti-Se-or.mp3?rlkey=n07ynvo2u24g4j1kk1cuaebej&st=w5qoewo5&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "017 - Mi fe Espera en Ti",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/rfalatpxgst9bwu58j6q6/17-Mi-fe-Espera-en-Ti.mp3?rlkey=j95wa21sbl602eqzdn3cdif8r&st=qesvilxx&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "018 - Grato es Decir la Historia",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/8eenjbxrcjme268y9j3xd/18-Grato-es-Decir-la-Historia.mp3?rlkey=5slsdwt2hrlrk6vw57zzzshgj&st=l4xf6jcu&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "019 - Oyes Como el Evangelio",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/re4lodjkz93s0ovyraud0/19-Oyes-Como-el-Evangelio.mp3?rlkey=98y7y806yoq0u6qu85td63zb2&st=ezzpp6ar&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "020 - Oh Jovenes Venid",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/wmdggoc4qmk3t3mmm0sxz/20-Oh-Jovenes-Venid.mp3?rlkey=ma4nqo9sduja86qdtgdudtj6j&st=92t2e69q&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
                 title: "249 - A la tierra de Canaán",
                 artist: "Cantos Espirituales",
                 temas: [],
