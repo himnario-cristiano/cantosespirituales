@@ -139,7 +139,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/g543sj8few9k9bkqpo9p4/11-Hay-Un-Lugar-Do-Quiero-Estar-Figura.pdf?rlkey=dgkwb9rsk0ovqkisvnerammgd&st=wobmcx62&dl=0",
                 src: "https://www.dropbox.com/scl/fi/9rb0009f53mesdrn8t6sv/11-Hay-un-Lugar-do-Quiero-Estar.mp3?rlkey=1ukijcdqtt30243dm484n3pty&st=httmzpa3&dl=0",
                 references: [
 					
@@ -150,7 +150,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/zzm3spuhfrp1c4eojjk1g/12-Roca-De-La-Eternidad-Figuras.pdf?rlkey=5nzzomp2k2rf88fztalpjs23l&st=wcsopkuk&dl=0",
                 src: "https://www.dropbox.com/scl/fi/fcclc2d3ggn8sy6n665d0/12-Roca-de-la-Eternidad.mp3?rlkey=m7nutk83gxfkzyxdsa6wftnw0&st=wdn5rqzz&dl=0",
                 references: [
 					
@@ -161,7 +161,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/1dkxeqm76h1rkl7aim3ml/13-Dulce-Oracion-figuras.pdf?rlkey=wwxhxzxci1dicycf7ezf0b4zg&st=3z17htue&dl=0",
                 src: "https://www.dropbox.com/scl/fi/g2q82lct6ec8epeq0w7l6/13-Dulce-Oracion.mp3?rlkey=igsc4dupgvfy2vk6mjzfvcv6l&st=r29nt1dd&dl=0",
                 references: [
 					
@@ -172,7 +172,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/m7c96ukw995du0hgw0ln1/14-Oh-Que-Amigo-Figuras.pdf?rlkey=b2ibhyaof5z9mq1v1hrux1mx7&st=r9ij6ln9&dl=0",
                 src: "https://www.dropbox.com/scl/fi/19lj2e9s9a59nygab1nr6/14-Oh-que-Amigo.mp3?rlkey=ahil2s1cbqqh3ppr8fryz4uhl&st=9c9vc1kz&dl=0",
                 references: [
 					
@@ -183,7 +183,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/bcujldzaslt6l9ufdi3bi/15-Se-or-Nos-Recordamos-Figuras.pdf?rlkey=28da6x5ss0zxopuxacruxu8s3&st=vot7htl6&dl=0",
                 src: "https://www.dropbox.com/scl/fi/liek5s8xymi5n3pyomkal/15-Se-or-nos-Recordamos.mp3?rlkey=pzl9m47lvt55544zclv11wngc&st=obraz64w&dl=0",
                 references: [
 					
@@ -194,7 +194,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/uilijcdgm2dxwpagw4rsr/16-Cerca-de-Ti-Se-or-Figuras.pdf?rlkey=xzu5ln7qqn6k00db22wpvmfnz&st=m6s22son&dl=0",
                 src: "https://www.dropbox.com/scl/fi/d8h8eondk37u6prarc4fs/16-Cerca-de-Ti-Se-or.mp3?rlkey=n07ynvo2u24g4j1kk1cuaebej&st=w5qoewo5&dl=0",
                 references: [
 					
@@ -205,7 +205,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/vl8rudq11m17fqdgt1riy/17-Mi-Fe-Espera-En-Ti-Figuras.pdf?rlkey=4502p1ga1ik44tt5cnhaikvh8&st=g5hyzklp&dl=0",
                 src: "https://www.dropbox.com/scl/fi/rfalatpxgst9bwu58j6q6/17-Mi-fe-Espera-en-Ti.mp3?rlkey=j95wa21sbl602eqzdn3cdif8r&st=qesvilxx&dl=0",
                 references: [
 					
@@ -216,7 +216,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/ex9vkvhtn308s55qdjql4/18-Grato-Es-Decir-La-Historia-Figuras.pdf?rlkey=5z8ziah8j2sz9g9rhkzmvx4ww&st=r0lwu1y0&dl=0",
                 src: "https://www.dropbox.com/scl/fi/8eenjbxrcjme268y9j3xd/18-Grato-es-Decir-la-Historia.mp3?rlkey=5slsdwt2hrlrk6vw57zzzshgj&st=l4xf6jcu&dl=0",
                 references: [
 					
@@ -227,7 +227,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/4nm839m6ncr6d35canjne/19-Oyes-Como-El-Evangelio-Figuras.pdf?rlkey=k6zoo6x3wv4nzmln5qv8xj85g&st=o7qvvfoi&dl=0",
                 src: "https://www.dropbox.com/scl/fi/re4lodjkz93s0ovyraud0/19-Oyes-Como-el-Evangelio.mp3?rlkey=98y7y806yoq0u6qu85td63zb2&st=ezzpp6ar&dl=0",
                 references: [
 					
@@ -238,7 +238,7 @@
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/z1z8xe6pai6owmzrkk30y/20-Oh-Jovenes-Venid-Figuras.pdf?rlkey=z5p007qjfdmf7zy6ssmhldq4l&st=xu08dsc8&dl=0",
                 src: "https://www.dropbox.com/scl/fi/wmdggoc4qmk3t3mmm0sxz/20-Oh-Jovenes-Venid.mp3?rlkey=ma4nqo9sduja86qdtgdudtj6j&st=92t2e69q&dl=0",
                 references: [
 					
