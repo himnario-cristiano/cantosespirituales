@@ -1,6 +1,6 @@
 {
   "name": "Cantos Espirituales",
-  "short_name": "Himnario",
+  "short_name": "Cantos Espirituales",
   "description": "Reproductor de himnos y cantos cristianos",
   "start_url": "./index.html",
   "display": "standalone",
