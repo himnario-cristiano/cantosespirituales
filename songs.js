@@ -355,6 +355,116 @@
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
+                title: "031 - Cristo me Ama",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/debl2el1dxkou6zdn07x0/31-Cristo-Me-Ama-Figuras.pdf?rlkey=63ksh6qybep8vl2dus94bpw8w&st=zg7myq6m&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ue9v144uykpv5ramsmxpx/31-Cristo-me-Ama.mp3?rlkey=8p6qbf5m4gpuk64jak472bivp&st=4k6vd1dv&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "032 - Conmigo se",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/pod4gi8l2nupougx97ngs/32-Conmigo-S-Figuras.pdf?rlkey=7k8oldc6igehdqioh3c78o42f&st=atdw41dw&dl=0",
+                src: "https://www.dropbox.com/scl/fi/cd1wkapbaktkibdyypjnf/32-Conmigo-se.mp3?rlkey=kqgm1607c3tu1u465ayuzk9gu&st=win7h3eu&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "033 - Salvador, a Ti Me Rindo",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/mkcknn01apy0ujuttbrci/33-Salvador-A-Ti-Me-Rindo-Figuras.pdf?rlkey=sfxm533dali02jsgfubvwgo67&st=kx8hi6o2&dl=0",
+                src: "https://www.dropbox.com/scl/fi/7ndd0xo8aw6d3k5wmea3f/33-Salvador-a-Ti-Me-Rindo.mp3?rlkey=c8avhc8b9e37rt6y1hklw6mb1&st=9w8w8r24&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "034 - Andando En La Luz",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/1nu7z41aa6300gp60x5t6/34-Andando-En-La-Luz-Figuras.pdf?rlkey=alkeinalxe8ilvizjaqbvifso&st=i8qfktwo&dl=0",
+                src: "https://www.dropbox.com/scl/fi/7fe7t2tzm2ubnpghox0rg/34-Andando-En-La-Luz.mp3?rlkey=d4ns72y7ccbllt96j616af2ep&st=5go6cwdp&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "035 - Hay un Mundo feliz",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/6u8h213j3inu7rjh34tww/35-Hay-Un-Mundo-Feliz-Figuras.pdf?rlkey=aht5isfc1tpiuw2dbvjl6bt18&st=ikdo65lf&dl=0",
+                src: "https://www.dropbox.com/scl/fi/18qghg44lpgc7n2u5d9bp/35-Hay-un-Mundo-feliz.mp3?rlkey=7zkxz79rbh4odp41zk2d8wek5&st=lp6xm9k7&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "036 - Pecador, Ven al Dulce Jesus",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/d52ed3cdpnjbh273r30pz/36-Pecador-Ven-Al-Dulce-Jes-s-Figuras.pdf?rlkey=eyj0b3b3w9u7gataxpk72umdu&st=ehkviuh1&dl=0",
+                src: "https://www.dropbox.com/scl/fi/9pdigbxf97v21kcs3i52j/36-Pecador-Ven-al-Dulce-Jesus.mp3?rlkey=bpgdvtmsgp09tcslcesf7w7lk&st=jxbvbwj5&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "037 - Oh Amor que no me Dejaras",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/pgm7ekt0qnh1f6ut7sff2/37-Oh-Amor-Que-No-Me-Dejaras-Figuras.pdf?rlkey=axglt40o01hd1o464pstj0y1e&st=71sqhvz1&dl=0",
+                src: "https://www.dropbox.com/scl/fi/lehlsql8nohjtdv2hu5sj/37-Oh-Amor-que-no-me-Dejaras.mp3?rlkey=86fv2hd6zwcmxzqmucgncz8l2&st=gp79q3vi&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "038 - Que mi Vida Entera esté",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/aipilrtk43e3twbgyjwqg/38-Que-Mi-Vida-Entera-Est-Figuras.pdf?rlkey=3slfp8t09w0lh75ldfgwtrmn1&st=yjrtkgpl&dl=0",
+                src: "https://www.dropbox.com/scl/fi/1fvamciqqr8jhlhwwr2vl/38-Que-mi-Vida-Entera-est-2.mp3?rlkey=p2aiusdldvnuxck7i9k8k1oq5&st=9ge7sxcp&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "039 - Santa Biblia",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/76miojxdm9d7lnwypgzhr/39-Santa-Biblia-Figuras.pdf?rlkey=3d039d1fu778acn2y5ydkjxhv&st=cc2xhdcc&dl=0",
+                src: "https://www.dropbox.com/scl/fi/3bmonvwe6s59y0mmk0nfg/39-Santa-Biblia.mp3?rlkey=fxl8ig91gkon2rh1ezyik1dn8&st=m0chhpcf&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "040 - Noche De Paz, Noche De Amor",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/9b0noj5cp2pzcwxd2cgso/40-Noche-De-Paz-Noche-De-Amor.pdf?rlkey=oyy1vp8zfnjayyxgkc1v3d392&st=nrkl2qdd&dl=0",
+                src: "https://www.dropbox.com/scl/fi/k8pkyl4vyq0iurueq5uy7/40-Noche-De-Paz-Noche-De-Amor.mp3?rlkey=qsbydv8yd7kwyzh9oy0x61ylq&st=cjaf08qr&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
                 title: "249 - A la tierra de Canaán",
                 artist: "Cantos Espirituales",
                 temas: [],
