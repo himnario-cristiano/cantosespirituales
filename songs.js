@@ -1014,7 +1014,7 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
-            {
+            { 
                 title: "090 - Cuando andemos con Dios",
                 artist: "Cantos Espirituales",
                 temas: [],
