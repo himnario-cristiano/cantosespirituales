@@ -245,6 +245,116 @@
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
+                title: "021 - Jesus de los Cielos",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/x6k3h7w197k21pjjgxyk4/21-Jes-s-De-Los-Cielos-Figuras.pdf?rlkey=wm2jqxnwg5y9x1rzyflga8q0g&st=2ntux2js&dl=0",
+                src: "https://www.dropbox.com/scl/fi/oaax6evussaao5cu012is/21-Jesus-de-los-Cielos.mp3?rlkey=x3l3293xr4m1hd4qy53tzg6lk&st=5v5h5wqg&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "022 - Fuente de la Vida Eterna",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/qtlu5vv4pefp2ldyrw8ln/22-Fuente-De-La-Vida-Eterna-Figuras.pdf?rlkey=hdueayl2q6242w1bmf4fe6404&st=ilry349z&dl=0",
+                src: "https://www.dropbox.com/scl/fi/adaxap9ulwswq0npe9hva/22-Fuente-de-la-Vida-Eterna.mp3?rlkey=vrhg3s34ro3mln8i9jge9d3ny&st=9nkl64t0&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "023 - Bauticese Cada Uno",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/fsq2frvoku6ff06msi6iz/23-Bauticese-Cada-Uno-Figuras.pdf?rlkey=4s7vldoydlvfrwjpfrm2ppzae&st=tcff6vwz&dl=0",
+                src: "https://www.dropbox.com/scl/fi/wsog0c3fwtt7imclwswuo/23-Bauticese-Cada-Uno.mp3?rlkey=jo9rfwjkive9ydm7u62ymvc0m&st=gazvv8p8&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "024 - La Palabra hoy Sembrada",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/6q0fkpe7mirtkoqgix0dv/24-La-Palabra-Hoy-Sembrada-Figuras.pdf?rlkey=dhg5i0dlx080ghtm9up5zi92o&st=v3zqnvct&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ss7wlxifm11u9ecrnbu8u/24-La-Palabra-hoy-Sembrada.mp3?rlkey=s2ix29za1wcpaklx01s7obml0&st=mlp4a0ar&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "025 - Meditad",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/3r1l1r0j65pub5inqcm8w/25-Meditad-Figuras.pdf?rlkey=yv1hd96ne2ofwogolxr5eyblp&st=1s0ut41c&dl=0",
+                src: "https://www.dropbox.com/scl/fi/f9lpmtadbil02qx0867o1/25-Meditad.mp3?rlkey=157elvetafp9hfhcee2lksmht&st=hbkwm9do&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "026 - Jesus yo he Prometido",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/e7st00ui8hzf9lzk732yn/26-Jes-s-Yo-He-Prometido-Figuras.pdf?rlkey=331m5plj5glkqx12bav4pof89&st=vrcnlfpb&dl=0",
+                src: "https://www.dropbox.com/scl/fi/2licoyhbon9i75zsx00ob/26-Jesus-yo-he-Prometido.mp3?rlkey=lfij9i764z6nlvtv0wwoauxll&st=8dve34y8&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "027 - Padre, Tu Palabra es",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/hdw78n7qs49ujonx7b0vv/27-Padre-Tu-Palabra-Es-Figuras.pdf?rlkey=ac0jq7sprg549mxdljx4l8x6h&st=y6cbjowt&dl=0",
+                src: "https://www.dropbox.com/scl/fi/o6qvcdw97qdh6fvavk5a2/27-Padre-Tu-Palabra-es.mp3?rlkey=czd20kvzn76rvnrys3p2siuhh&st=qqslqwa3&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "028 - Pronto La Noche Viene",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/wsma0hpr298j98b1xgu7s/28-Pronto-La-Noche-Viene-Figuras.pdf?rlkey=y1ikzpw9tucry35zibca5ivlv&st=ec7g2ify&dl=0",
+                src: "https://www.dropbox.com/scl/fi/iuscankqk2g1cwdqnfjyi/28-Pronto-La-Noche-Viene.mp3?rlkey=idqxmnkvka2exdhdmja3tzo5s&st=1ruqtq3y&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "029 - Ya Venimos, cual Hermanos",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/2nwaofrpa5pfw65vdaeaz/29-Ya-Venimos-Cual-Hermanos.pdf?rlkey=1l1nuqgipxrfq8gnt3iwos8vm&st=h0r28pb8&dl=0",
+                src: "https://www.dropbox.com/scl/fi/3ckyvagbw2a4c33sei8mx/29-Ya-Venimos-cual-Hermanos.mp3?rlkey=74d0ot5vwzreqlbwosbvpgbfq&st=gd7e94w1&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "030 - La Santa Cena",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/b04j9q2f0ood269cnbcnp/30-La-Santa-Cena-Figuras.pdf?rlkey=tpn9hrpz4dkcib3uycpl0gcem&st=7k7m5c6w&dl=0",
+                src: "https://www.dropbox.com/scl/fi/zi42e5dxdvpyrp9r9b5jh/30-La-Santa-Cena.mp3?rlkey=h8wev03g5cxq38yhi35qxbtdl&st=du96geae&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
                 title: "249 - A la tierra de Canaán",
                 artist: "Cantos Espirituales",
                 temas: [],
