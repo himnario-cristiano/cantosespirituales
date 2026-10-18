@@ -1576,6 +1576,336 @@
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
+                title: "141 - !Oh, cuan dulce¡",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/kny0a7sfitzgex4cf4rao/141-Oh-Cu-n-Dulce-Figuras.pdf?rlkey=nnm5enxrwk9dkrarrz0clszz2&st=l3kp8tpx&dl=0",
+                src: "https://www.dropbox.com/scl/fi/bm4ngofmutak548uu13bf/141-Oh-cuan-dulce.mp3?rlkey=w9rgkr2cuiwenzek7f3dd3vka&st=l6lj6i7a&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "142 - Oigo la voz del buen Pastor",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/x0iz9rpksnv4kqcuf7bf9/142-Oigo-La-Voz-Del-Buen-Pastor-Figuras.pdf?rlkey=6zx9xbmldqidi8d2qh4rppw4r&st=0eb3ep3v&dl=0",
+                src: "https://www.dropbox.com/scl/fi/cpymhy0h6sr0gxbldehgy/142-Oigo-la-voz-del-buen-Pastor.mp3?rlkey=5odf660z0mscv8bau2qhpbeo6&st=l6rd0zxx&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "143 - Mora conmigo",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/quz94f3p7kifu8aoqluad/143-Mora-Conmigo-Figuras.pdf?rlkey=5izpa9kzh45tfci3k9s46n5p5&st=j2je004c&dl=0",
+                src: "https://www.dropbox.com/scl/fi/n2lt7odu9jl0hp7m2he2b/143-Mora-conmigo.mp3?rlkey=a28p6ot7y8pwcy845c5ckvbkl&st=t132ua5c&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "144 - Cerca, mas Cerca",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/27z0tsk5tf4011fscknhp/144-Cerca-M-s-Cerca-Figuras.pdf?rlkey=fjdal8wjpqjh6s7yx6vreexh6&st=6ge1gvc3&dl=0",
+                src: "https://www.dropbox.com/scl/fi/hkmr8ykw15yhwbsww38aa/144-Cerca-mas-Cerca.mp3?rlkey=yvk3s6xlr9b5bzqsjta38xu98&st=01ezxmas&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "145 - Guiame, oh Salvador",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/goq2wilxqpzr6ut3smdef/145-Guiame-Oh-Salvador-Figuras.pdf?rlkey=fp85glwxpevpgkvtc8f9w8afh&st=yii5ih50&dl=0",
+                src: "https://www.dropbox.com/scl/fi/13o2y1k8jm9ayc1mfv2ji/145-Guiame-oh-Salvador.mp3?rlkey=tk6pbq5yve7nqhlh0u0rlcp3y&st=gvhka043&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "146 - Cristo, tu santo amor",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/4oe205hcowbggqrre273q/146-Cristo-Tu-Santo-Amor-Figuras.pdf?rlkey=6e3ohnw7nek8affg4rn7f1old&st=gmiutr4o&dl=0",
+                src: "https://www.dropbox.com/scl/fi/94eoiuh2la7rt1lke9e48/146-Cristo-tu-santo-amor.mp3?rlkey=a2gphja39afk6k4abglajh4pi&st=gnenlj3u&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "147 - Maestro, ruge la tempestad",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/qwungaul7stxcsfqsba0x/147-Maestro-Ruge-La-Tempestad-Figuras.pdf?rlkey=bs874j7f04umfsoi9256cvnw4&st=5sz7n0v6&dl=0",
+                src: "https://www.dropbox.com/scl/fi/hrhj2m0ux54z3ljyspjy5/147-Maestro-ruge-la-tempestad.mp3?rlkey=h8mojvvztz3ftjli9fqsr6x4u&st=cwst03wv&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "148 - Dejo el mundo y sigo a Cristo",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/cyst0m4baq7g1xak95agb/148-Dejo-El-Mundo-Y-Sigo-A-Cristo-Figuras.pdf?rlkey=zta4nyzt7l6niqf95atuoae1v&st=p9nws4of&dl=0",
+                src: "https://www.dropbox.com/scl/fi/bqb55u8otpav991jpz4nb/148-Dejo-el-mundo-y-sigo-a-Cristo.mp3?rlkey=nq3bk0ppcbsdy2u1dj7yyh1qn&st=nmkhmjfb&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "149 - Dame la fe de mi Jesus",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/fga527300crzwz51le6eq/149-D-me-La-Fe-De-Mi-Jes-s-Figuras.pdf?rlkey=gl0ahm01ogwc5uc9hw71idyju&st=3e7q5mmy&dl=0",
+                src: "https://www.dropbox.com/scl/fi/rp1mlzoehjb7vx1l088qr/149-Dame-la-fe-de-mi-Jesus.mp3?rlkey=chvhw5aye1g63k0q4bkkszz63&st=njgauzqq&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "150 - Nuestro sol se pone ya",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/uzx0dh6o5dnrfb1izzfmd/150-Nuestro-Sol-Se-Pone-Ya-Figuras.pdf?rlkey=o6el554uel5mv88bngvp4bpm0&st=jfced2p3&dl=0",
+                src: "https://www.dropbox.com/scl/fi/w5c81e582mt73a3to20oc/150-Nuestro-sol-se-pone-ya.mp3?rlkey=zbzjvnkqob4tnbnmlgelf8m2t&st=g3swzonj&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "151 - Yo escucho, buen Jesus",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/c0q1lfvosky5dntooxc24/151-Yo-Escucho-Buen-Jes-s-Figuras.pdf?rlkey=7s2t33i4il0ue12iswtfk67iw&st=pprbtac9&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ct6q1wrci0hzksyuvr5r5/151-Yo-escucho-buen-Jesus.mp3?rlkey=shkvslzyxue69vbz9fzk3pv5y&st=tznzl2xg&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "152 - El canto de gloria",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/du68kr4x4z69cfyb9pb0u/152-El-Canto-De-Gloria-Figuras.pdf?rlkey=ajzh2iby1u78z7xu6yc0wwav2&st=oflpmr6r&dl=0",
+                src: "https://www.dropbox.com/scl/fi/az6yfmaqwlntlxg71kqrx/152-El-canto-de-gloria.mp3?rlkey=9f7d90nxz8pvmn0onget6xksi&st=p816dci3&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "153 - No me pases, no me olvides",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/7qypxttnupjkms6mg1dlx/153-No-Me-Pases-No-Me-Olvides-16_9.pdf?rlkey=6p1q0c0mqdl3ba1xq8yebkeo1&st=54hqq7tv&dl=0",
+                src: "https://www.dropbox.com/scl/fi/dv3oyfxqcq77ogwhzazhh/153-No-me-pases-no-me-olvides.mp3?rlkey=2vxavqfc6pof9yol1s2iwjgzz&st=d5ftppbr&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "154 - La tumba le encerró",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/cxuaa3z4fslscarryjrs9/154-La-Tumba-Le-Encerr-Figuras-Matices.pdf?rlkey=drq2khye6dpmzdkx2kqbtqmrs&st=x1p64lvg&dl=0",
+                src: "https://www.dropbox.com/scl/fi/kps1j8fnv0ujsm3cdllx3/154-La-tumba-le-encerr.mp3?rlkey=0heb4auonpmh4q8emkkrk355q&st=sp0hgrme&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "155 - Dime la historia de Cristo",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/08fyzjuoxj0jol4u9i0yd/155-Dime-La-Historia-De-Cristo-Figuras.pdf?rlkey=ilq7pzgg3b1g1w7poa9yhd3s0&st=covorp5a&dl=0",
+                src: "https://www.dropbox.com/scl/fi/r7czawy65eehpbxzo0xaf/155-Dime-la-historia-de-Cristo.mp3?rlkey=nn6tj9t4mbrez69yw9pcmlaan&st=hwgc339q&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "156 - La tierna voz del Salvador",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/ce59ui85aiaos24ap3wxo/156-La-Tierna-Voz-Del-Salvador-Figuras.pdf?rlkey=bzktw7h59j9vv82fsi017fgm3&st=sw629jzk&dl=0",
+                src: "https://www.dropbox.com/scl/fi/5o5tcjuwmch7bcg0n02oa/156-La-tierna-voz-del-Salvador.mp3?rlkey=844ij8xjo5b7ln5t1vulto2xr&st=pumk57wp&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "157 - ¿Con que limpiara el joven sus caminos?",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/rg7k337bpscirsyqk894w/157-Con-Qu-Limpiar-El-Joven-Sus-Caminos-16_9.pdf?rlkey=5idsyjsuf70kodj3l706e5lk5&st=nu4mrrrj&dl=0",
+                src: "https://www.dropbox.com/scl/fi/yfwh4b271pnudirxej6ad/157-Con-que-limpiara-el-joven-sus-caminos.mp3?rlkey=4twz9q5ieqb27kyi3ckgq7ib6&st=0zwa82jc&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "158 - !Estoy Presto!",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/023knveko1osdpukjofzh/158-Estoy-Presto-16_9.pdf?rlkey=h9nem62td155aftd6pww4nbor&st=mhgz7ubk&dl=0",
+                src: "https://www.dropbox.com/scl/fi/s42mydg13h8c28yxq6whj/158-Estoy-Presto.mp3?rlkey=i1ezbfbap73nyeb17l7qb2pno&st=mqg6w639&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "159 - El ultimo paso de la vida",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/p60zkbxj2wfeojc3v7mb1/159-El-Ultimo-Paso-de-la-Vida-16_9.pdf?rlkey=fevo5n1zxjf0bwckg0o0c6vel&st=pd4mmyz7&dl=0",
+                src: "https://www.dropbox.com/scl/fi/e9f3zhd4fr9e3vnd69fmf/159-El-ultimo-paso-de-la-vida.mp3?rlkey=sk77fh6ncq3zvshvx5c6qnpra&st=zxykfuvi&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "160 - Cristo el Salvador",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/u6tsliykorlzryv6aztyz/160-Cristo-El-Salvador-16_9.pdf?rlkey=7v4lyur14p7fy826h48uqdsio&st=tsmt7uhf&dl=0",
+                src: "https://www.dropbox.com/scl/fi/5e2nzwkqf1xj45jzeyke0/160-Cristo-el-Salvador.mp3?rlkey=49sagvdyu8xtgw3k56jl4b68b&st=t9f8zucg&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "161 - Oid un son en alta esfera",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/uus8yoqvuoq9ufbdhxe1k/161-O-d-Un-Son-En-Alta-Esfera-Figuras.pdf?rlkey=wq4kyauq1ixk67weg2un8pkww&st=32o8dp6b&dl=0",
+                src: "https://www.dropbox.com/scl/fi/3aetq22c9461l2a4cs8k1/161-Oid-un-son-en-alta-esfera.mp3?rlkey=z8imrcmok3a9p31toinqjdf0y&st=vmhzhza1&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "162 - Sagrado es el amor",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/uwy08h5kdwujdmsz6thry/162-Sagrado-Es-El-Amor-Figuras.pdf?rlkey=daon9714mnaqdb274qhowp57a&st=gs8ilhyu&dl=0",
+                src: "https://www.dropbox.com/scl/fi/2hwc585pjb1c7deen83vk/162-Sagrado-es-el-amor.mp3?rlkey=6a7e6sfeu5efepnesrolsn8p6&st=6xtwwz5k&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "163 - Castillo Fuerte es nuestro Dios",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/ij1m3bmu4ky0a02772oeb/163-Castillo-Fuerte-Es-Nuestro-Dios-Figuras.pdf?rlkey=68umfryid72gskazyv3hnujj3&st=ne0adx35&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ashko5sqptrif2zc9d0so/163-Castillo-Fuerte-es-nuestro-Dios.mp3?rlkey=ple3d46a54yrmhgl12nuh48k2&st=3o8in8cp&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "164 - ¿Vives tu solo por Cristo Jesus?",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/4mwbnebdm4fxoli6av2og/164-Vives-T-S-lo-Por-Cristo-Jes-s-16_9.pdf?rlkey=oxhe2ksa65940ftt1fk0sevbh&st=6y1iki9v&dl=0",
+                src: "https://www.dropbox.com/scl/fi/h5dwcpm155uvnc4xtm15g/164-Vives-tu-solo-por-Cristo-Jesus.mp3?rlkey=t9gvwodwo8tbjektt7a3lmr3k&st=8mno4pzh&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "165 - Dicha grande",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/84xy204vcyi5bhkvpo3z8/165-Dicha-Grande-16_9.pdf?rlkey=f80gxev8bv8u94259djjqr8gx&st=yehpejv2&dl=0",
+                src: "https://www.dropbox.com/scl/fi/o0t60k0trscc89donm5ku/165-Dicha-grande.mp3?rlkey=krj4gm3znjwe9tdd7879socau&st=p9cntgbh&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "166 - El mejor amigo",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/bnbvmw70bkdduptohp9sr/166-El-Mejor-Amigo-16_9.pdf?rlkey=7ox29acjtmw97zcvidql0c0fm&st=vgqn6ra8&dl=0",
+                src: "https://www.dropbox.com/scl/fi/qdvrn7e8se22bp4boma5r/166-El-mejor-amigo.mp3?rlkey=k4u2jlnwuac70lzygr9e4r4j4&st=hx0sdv7w&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "167 - Los que aman al Señor",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/khd0q7ptb7yzcyx5fmvuv/167-Los-Que-Aman-al-Se-or-16_9.pdf?rlkey=62rujy0nvujkxxq98xhooty53&st=e1dxypan&dl=0",
+                src: "https://www.dropbox.com/scl/fi/kua5ik5v4zk1xhm4tv0fn/167-Los-que-aman-al-Se-or.mp3?rlkey=6768ngo95lgfr7gc1p4eameyr&st=r1p4omho&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "168 - Cristo, tu voluntad",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/y7gpszaq01xs9vonz5imu/168-Cristo-Tu-Voluntad-16_9.pdf?rlkey=07gs4b2f0unikppa89segaemp&st=mosjoskc&dl=0",
+                src: "https://www.dropbox.com/scl/fi/rdtq7ygma5pk5c6jqtphq/168-Cristo-tu-voluntad.mp3?rlkey=qp2fnkajo8ll2gj886w7g4ove&st=7bdlnvkb&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "169 - Cantad, oh peregrinos",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/m1erxjcbdvegv4s131kn6/169-Cantad-Oh-Peregrinos-16_9.pdf?rlkey=u0458rny98gqm92es96p6zwhy&st=cw1e324o&dl=0",
+                src: "https://www.dropbox.com/scl/fi/a0ls4trw1i7p1frm79xdd/169-Cantad-oh-peregrinos.mp3?rlkey=e65c7qdwzf0tp7hyxzl5sqjrf&st=gk3qjobm&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "170 - Oh, cuanto amo a Cristo",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/ta13mjcntgtfuvr4opyhq/170-Oh-Cu-nto-Amo-A-Cristo-16_9.pdf?rlkey=yy5exkiu26bdo20d6fzd5inpv&st=10a0hyya&dl=0",
+                src: "https://www.dropbox.com/scl/fi/13c7by8satgar53r5vazx/170-Oh-cuanto-amo-a-Cristo.mp3?rlkey=4koyvng3r7yy2eukqfhy0n835&st=daxvm2rf&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
                 title: "249 - A la tierra de Canaán",
                 artist: "Cantos Espirituales",
                 temas: [],
