@@ -2346,111 +2346,111 @@
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
-                title: " - ",
+                title: "211 - Nuestro Dios vive hoy",
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
         		partitura: "",
-                src: "",
+                src: "https://www.dropbox.com/scl/fi/en4ubkgjh7kdb3au0jv3b/211-Nuestro-Dios-vive-hoy.mp3?rlkey=24ynnyz0enfhb4yplvz4rlcnn&st=l9vor0zf&dl=0",
                 references: [
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
-                title: " - ",
+                title: "212 - Ya todo deje",
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
-                src: "",
+        		partitura: "https://www.dropbox.com/scl/fi/7zkx222jz4rkzdx3hfqzj/212-Ya-Todo-Dej-16_9.pdf?rlkey=1bcez5idcz8ghzsnx1djx144g&st=1mwvi6k7&dl=0",
+                src: "https://www.dropbox.com/scl/fi/jqee5otp37fa7nu1k9jg6/212-Ya-todo-deje.mp3?rlkey=7nd4ae00iif0y4bih4dvzsudl&st=bxr009h4&dl=0",
                 references: [
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
-                title: " - ",
+                title: "213 - Oh, Yo Quiero Andar Con Cristo",
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
-                src: "",
+        		partitura: "https://www.dropbox.com/scl/fi/zi9z5wy39uwde0nr3pi1w/213-Oh-Yo-Quiero-Andar-Con-Cristo-16_9.pdf?rlkey=cuc1uxe5v7rkzn7n6hi23ere7&st=4se3d8yz&dl=0",
+                src: "https://www.dropbox.com/scl/fi/lecbichxw3ktrj3ghah84/213-Oh-Yo-Quiero-Andar-Con-Cristo.mp3?rlkey=zv65pgjm9moj2qfqbtpwyhu9g&st=ht7vobpb&dl=0",
                 references: [
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
-                title: " - ",
+                title: "214 - Gloria al cordero",
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
-                src: "",
+        		partitura: "https://www.dropbox.com/scl/fi/i35z44cjlha04va6r7llc/214-Gloria-Al-Cordero-16_9.pdf?rlkey=o2our1x2pjahnc5s656fy3juv&st=21qub78u&dl=0",
+                src: "https://www.dropbox.com/scl/fi/sr3g0mwexdy6xrugscyv9/214-Gloria-al-cordero.mp3?rlkey=r3daxi46oxi7fdoutgix9b472&st=a6pfclmm&dl=0",
                 references: [
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
-                title: " - ",
+                title: "215 - Dulce paz",
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
-                src: "",
+        		partitura: "https://www.dropbox.com/scl/fi/qlsqzou5duqdsl23iszkq/215-Dulce-Paz-16_9.pdf?rlkey=1iphukd4tf0t1oxmqcucnvxfh&st=kp3eyhvt&dl=0",
+                src: "https://www.dropbox.com/scl/fi/u7igl3y0n6f9in1bsqct0/215-Dulce-paz.mp3?rlkey=jwrij3kadtit9jorex4yq46du&st=n2fc6s9k&dl=0",
                 references: [
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
-                title: " - ",
+                title: "216 - De Jesus el nombre guarda",
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
-                src: "",
+        		partitura: "https://www.dropbox.com/scl/fi/m6jl7rfag64ycvrfljogo/216-De-Jes-s-EL-Nombre-Guarda-16_9.pdf?rlkey=30515300rvuwprug6kqil21n2&st=syqte7zi&dl=0",
+                src: "https://www.dropbox.com/scl/fi/l86omotxa9p5wpo7e2b7b/216-De-Jesus-el-nombre-guarda.mp3?rlkey=3mepwjdzltl7ldmfc0clquaf4&st=9o2pn6tl&dl=0",
                 references: [
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
-                title: " - ",
+                title: "217 - Cuando en ocaso mi sol se ponga",
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
-                src: "",
+        		partitura: "https://www.dropbox.com/scl/fi/mxka1flat13e4okpzesj4/217-Caundo-En-Ocaso-16_9.pdf?rlkey=mefynjecy41lhwfibavhvlutm&st=9zailpbf&dl=0",
+                src: "https://www.dropbox.com/scl/fi/x8h3hbk36kuw9e19kz4l6/217-Cuando-en-ocaso-mi-sol-se-ponga.mp3?rlkey=5guu9k60zunyvzuhj5qpd8w1m&st=5b2u4quh&dl=0",
                 references: [
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
-                title: " - ",
+                title: "218 - Dios cuidara de ti",
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
-                src: "",
+        		partitura: "https://www.dropbox.com/scl/fi/39ay5lhyjf75dycyhsbnb/218-Dios-Cuidara-De-Ti-16_9.pdf?rlkey=s45uvbxznafp4qqcaprickn2j&st=djeskp02&dl=0",
+                src: "https://www.dropbox.com/scl/fi/66rxc5fv0nsnrjbp1ll2d/218-Dios-cuidara-de-ti.mp3?rlkey=scfyvr2h97uhca70dgt0m3g2f&st=upu8ddlh&dl=0",
                 references: [
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
-                title: " - ",
+                title: "219 - La cruz de Jesus",
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
-                src: "",
+        		partitura: "https://www.dropbox.com/scl/fi/3z8erf6sl15fh5dmdqx76/219-La-Cruz-de-Jes-s-16_9.pdf?rlkey=p69kivfvn4wr97h5fvs0bf0i8&st=ox6x8arw&dl=0",
+                src: "https://www.dropbox.com/scl/fi/dsuqfjl79u2jua4k61pjn/219-La-cruz-de-Jesus.mp3?rlkey=s3kmf8zfluenixl4zylh3ujj7&st=5rwt8mkz&dl=0",
                 references: [
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
-                title: " - ",
+                title: "220 - Cristo me ayuda por El a vivir",
                 artist: "Cantos Espirituales",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
-                src: "",
+        		partitura: "https://www.dropbox.com/scl/fi/srcupwfzo3c946bfon5sd/220-Cristo-Me-Ayuda-Por-El-A-Vivir-16_9.pdf?rlkey=53owx146ji04p3ag6lfwarko0&st=b3xr3sgy&dl=0",
+                src: "https://www.dropbox.com/scl/fi/9l7hgso0e8lev6fwfkja2/220-Cristo-me-ayuda-por-El-a-vivir.mp3?rlkey=iubgx2bejg4qcg3t3idzetgtn&st=wo05gnlt&dl=0",
                 references: [
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
