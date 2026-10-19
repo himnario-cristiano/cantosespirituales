@@ -2032,7 +2032,7 @@
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
         		partitura: "https://www.dropbox.com/scl/fi/mxas539vx9jrmuzhfmjbd/182-Se-or-Mi-Dios-16_9.pdf?rlkey=h7tetrmusp1b3uoo8w9o6nru8&st=v878i8ta&dl=0",
-                src: "https://www.dropbox.com/scl/fi/isbynm1nkzovggqsl2mj4/182-Se-or-mi-Dios2.mp3?rlkey=osjx37di1ku5ohc5rk869qdbx&st=nu2koebq&dl=0",
+                src: "https://www.dropbox.com/scl/fi/isbynm1nkzovggqsl2mj4/182-Se-or-mi-Dios2.mp3?rlkey=osjx37di1ku5ohc5rk869qdbx&st=5m8cf8hy&dl=0",
                 references: [
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
