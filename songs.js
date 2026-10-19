@@ -2566,6 +2566,204 @@
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
             {
+                title: "231 - Puedo Entonces Conocerle",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/ljcd27lyvdfq2vho53n8k/231-Puedo-Entonces-Conocerle-16_9.pdf?rlkey=0prewbpvn92ctr9yyj5m6u5s3&st=t4m43q3s&dl=0",
+                src: "https://www.dropbox.com/scl/fi/4uvp8bpbomfthfprafg1x/231-Puedo-Entonces-Conocerle.mp3?rlkey=b9a5x8b0xfakt956iyqt0mer1&st=29y2xns6&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "232 - Sublime gracia",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/rzm0vgwyggyl4772g5i82/232-Sublime-Gracia-16_9.pdf?rlkey=jxwbd8f7xf8hb5qyd66a0g0k6&st=9o1elkos&dl=0",
+                src: "https://www.dropbox.com/scl/fi/s5l3r0nifmhf4fksmpoet/232-Sublime-gracia.mp3?rlkey=jxablgj6vb2l2xodx6xcjuzzp&st=jdwqmz0t&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "233 - Que Hermoso El Cielo Ha De Ser",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/hgx02rtna6oqdav56tqyz/233-Que-Hermoso-El-Cielo-Ha-De-Ser-16_9.pdf?rlkey=uooj5lru1sp1otcwzkrv64uzc&st=pcpsm2od&dl=0",
+                src: "https://www.dropbox.com/scl/fi/bj0folkd0cs5ltozh00b9/233-Que-Hermoso-El-Cielo-Ha-De-Ser.mp3?rlkey=2l5fizwsdxk19el5bymyno3w8&st=rgyler7j&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "234 - Hay Un Huerto",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/4acpa5hhzhvo9fcnir3if/234-Hay-Un-Huerto-16_9.pdf?rlkey=5b9qgvdyh8vxgj7kqz65hk71z&st=v35z1pe3&dl=0",
+                src: "https://www.dropbox.com/scl/fi/hfnc42bzq46dsvjtco2z4/234-Hay-Un-Huerto.mp3?rlkey=rjbv3wnwtrqjap5awd6ywu4uk&st=s21ah1u7&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "235 - A solas al huerto yo voy",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/2g18gd6r4qnvp1asn23ag/235-A-Solas-al-Huerto-Yo-Voy-16_9.pdf?rlkey=joxfwbef9hzuog5j8ks7m4l2x&st=ksukk2s5&dl=0",
+                src: "https://www.dropbox.com/scl/fi/9bk39l33wa4k8s9sgfsnr/235-A-solas-al-huerto-yo-voy.mp3?rlkey=onicu1vdr1wfciwr3rqyw5qdk&st=0s65i6ez&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "236 - Agria Voz",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/8i1kevyem2c1ioj2rzksx/236-Agria-Voz-16_9.pdf?rlkey=jtmybj0ort8h1xie8e7jmitfg&st=br1v94cz&dl=0",
+                src: "https://www.dropbox.com/scl/fi/j4arehhxw286l84ar8q4x/236-Agria-Voz.mp3?rlkey=hlqk9m9pc5317iojc2ctapz72&st=k1e06nua&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "237 - Proclamad El Mensaje",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/qguyt7dwd5ec77kp7ffni/237-Proclamad-El-Mensaje-16_9.pdf?rlkey=qrr7u774w6cxaiu5n7an3kmk4&st=3tlpdxjx&dl=0",
+                src: "https://www.dropbox.com/scl/fi/9gvxrx7lbsa6bfcbkn9wi/237-Proclamad-El-Mensaje.mp3?rlkey=m91xo9p20a2i3smohmp16rtux&st=8fr0ebtl&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "238 - Hermoso Mi Redentor",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/c15w36bvvivqj5zq2ld27/238-Hermoso-Mi-Redentor-16_9.pdf?rlkey=8oyleda3a21twuvhs9buvcej5&st=qmkp4igc&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ei8toartvem2tkau3ke34/238-Hermoso-Mi-Redentor.mp3?rlkey=eplnyhkx5yyq0nqhu0hp15l4p&st=d3v09nmx&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "239 - Si fui motivo de dolor, Señor",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/qf98v5f5ax80ey0qp4vei/239-Si-Fu-Motivo-De-Dolor-Se-or-16_9.pdf?rlkey=47psg0tre3yclsyl0wrdf5ecu&st=izh3mg6y&dl=0",
+                src: "https://www.dropbox.com/scl/fi/sfqqew8sdyyt789r2deff/239-Si-fui-motivo-de-dolor-Se-or.mp3?rlkey=lau7m3fo3xa79vcqsmbinspe5&st=a9aibte8&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "240 - Hermosa Vida",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/xii8ada98nwhjytd1ct34/240-Hermosa-Vida-16_9.pdf?rlkey=n7j0bsr0bi5azd7puwysoa4k6&st=avdioqkt&dl=0",
+                src: "https://www.dropbox.com/scl/fi/let2y5irqq5izhjt33ajj/240-Hermosa-Vida.mp3?rlkey=v3aprki9v2pab1ggyjbityrk0&st=dllwuq4i&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "241 - Fuente De Salud",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/5rzqi7p11wdfsv5dgbksj/241-Fuente-de-Salud-16_9.pdf?rlkey=phfwjqni19bb7t2gk03cbq13v&st=fdvzfrb3&dl=0",
+                src: "https://www.dropbox.com/scl/fi/9j1yo0crzz751r9tl1bgx/241-Fuente-De-Salud.mp3?rlkey=9uh76iapln5j2bnoh9tk1rz53&st=mcz5wkhp&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "242 - Aviva Tu Obra !Oh Dios!",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/vxvihv59gcwbofmuwyelc/242-Aviva-Tu-Obra-Oh-Dios.pdf?rlkey=eomvqp3d2orm9ciguqs25j4pv&st=0qi3pw2k&dl=0",
+                src: "https://www.dropbox.com/scl/fi/optku15m75jkc12y8vzhi/242-Aviva-Tu-Obra-Oh-Dios.mp3?rlkey=rhx6rpxvue80c8q7924492wbl&st=ct5y19p2&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "243 - Jesús Yo Te Amo",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/nwwmj9psn9mtmijddktyr/243-Jes-s-Yo-Te-Amo-16_9.pdf?rlkey=r0qjet30e3r52ljj0w97pqki7&st=cewsv89u&dl=0",
+                src: "https://www.dropbox.com/scl/fi/8loyhdvvxia92che7yytq/243-Jes-s-Yo-Te-Amo.mp3?rlkey=x6l4jdarv258z92djm67gfoeq&st=uhuwu3jg&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "244 - Mi vida di por ti",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/2gii2n2i4ailvhn5ocuz5/244-Mi-Vida-Di-Por-Ti-16_9.pdf?rlkey=b3phtbcqfr2mwatynrxajv4ao&st=gfuhskrx&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ypxd6hl3c0gnfuycowq7k/244-Mi-vida-di-por-ti.mp3?rlkey=qcxjza5gggfqt6zfwj4x6ov5b&st=w98n06vw&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "245 - Digno es el Cordero",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/k7pf97bbnju5vedboylil/245-Digno-Es-El-Cordero-16_9.pdf?rlkey=6u83n6ou934eorfw1ddie8ojh&st=xqumczbu&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ysut7tqq8mxn5iu09z83d/245-Digno-es-el-Cordero.mp3?rlkey=4zcbvcybwo6aldd2s0ghnx735&st=g853qcui&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "246 - Tendrás Que Renacer",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/0xqblqlx0yf5eacnp82e0/246-Tendr-s-Que-Renacer-16_9.pdf?rlkey=cgqcnndn87rc6hvxbvyo6rla4&st=d3lbb3vi&dl=0",
+                src: "https://www.dropbox.com/scl/fi/wwsmpusn0r19jzt82vdks/246-Tendr-s-Que-Renacer.mp3?rlkey=2xc7x05egzzbgm5xp64re0645&st=8pvvfmf4&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "247 - Esperanza En Mañana",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/lq0u8zribgu6j1l16706k/247-Esperanza-En-Ma-ana-169_.pdf?rlkey=tetbwcdmb5ex2l5xxw7f4dwbb&st=u30u2cyh&dl=0",
+                src: "https://www.dropbox.com/scl/fi/bhujmpbv4epu7ofu9g4g1/247-Esperanza-En-Ma-ana.mp3?rlkey=tswdxrricovrereut2pewy5q1&st=vh9ondih&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "248 - Bendito El Señor",
+                artist: "Cantos Espirituales",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/9enq2cb2h3ldgk0ed3o8d/248-Bendito-Se-or-16_9.pdf?rlkey=tx18u89w4tbhw1y47cbib9dec&st=dhxs3rtc&dl=0",
+                src: "https://www.dropbox.com/scl/fi/3fs4fvcfzy8yh4gf8zkyc/248-Bendito-El-Se-or.mp3?rlkey=2ts4ey651h7p5g5ul5b11cd7n&st=2whkbtwi&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
                 title: "249 - A la tierra de Canaán",
                 artist: "Cantos Espirituales",
                 temas: [],
