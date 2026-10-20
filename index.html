@@ -855,6 +855,7 @@
         let previewPdfDoc = null;
         let previewCurrentPage = 1;
         let previewTotalPages = 1;
+        let previewCache = {}; // <-- NUEVA VARIABLE
         
         const projectionModal = document.getElementById('projectionModal');
         const closeProjectionModalBtn = document.getElementById('closeProjectionModalBtn');
@@ -866,11 +867,28 @@
         const previewImage = document.getElementById('projectionPreviewImage');
         const modalLoadingBar = document.getElementById('modalLoadingBar');
 
-        // Función para renderizar localmente la vista previa usando Doble Búfer y barra de carga
+        
+        // Función para renderizar con Caché y Pre-carga
         function renderPreviewPage(num) {
             if (!previewPdfDoc) return;
             projPageIndicator.innerText = `Pág. ${num} - ${previewTotalPages}`;
             
+            // Si la página ya está en caché, la mostramos instantáneamente
+            if (previewCache[num]) {
+                const cachedCanvas = previewCache[num];
+                previewCanvas.width = cachedCanvas.width;
+                previewCanvas.height = cachedCanvas.height;
+                previewCanvas.getContext('2d').drawImage(cachedCanvas, 0, 0);
+                
+                modalLoadingBar.style.width = '100%';
+                setTimeout(() => { modalLoadingBar.style.width = '0%'; }, 150);
+                
+                // Pre-cargar la siguiente página por si avanza
+                preloadNextPage(num + 1);
+                return;
+            }
+
+            // Si no está en caché, la procesamos por primera vez
             modalLoadingBar.style.width = '30%';
             previewPdfDoc.getPage(num).then(page => {
                 const viewport = page.getViewport({ scale: 1.5 });
@@ -885,6 +903,9 @@
                 ctx.fillRect(0, 0, offCanvas.width, offCanvas.height);
 
                 page.render({ canvasContext: ctx, viewport: viewport }).promise.then(() => {
+                    // Guardamos el lienzo procesado en la caché
+                    previewCache[num] = offCanvas;
+                    
                     previewCanvas.width = viewport.width;
                     previewCanvas.height = viewport.height;
                     const visibleCtx = previewCanvas.getContext('2d');
@@ -892,42 +913,32 @@
                     
                     modalLoadingBar.style.width = '100%';
                     setTimeout(() => { modalLoadingBar.style.width = '0%'; }, 250);
+                    
+                    // Pre-cargar la siguiente página
+                    preloadNextPage(num + 1);
                 });
             });
         }
 
-        // CIERRE DEL MODAL DE PROYECCIÓN
-        closeProjectionModalBtn.addEventListener('click', () => {
-            projectionModal.classList.remove('show');
-        });
-        
-        projectionModal.addEventListener('click', (e) => {
-            if (e.target === projectionModal) {
-                projectionModal.classList.remove('show');
-            }
-        });
+        // Procesar la página siguiente de forma silenciosa para que cargue rápido al hacer clic
+        function preloadNextPage(nextNum) {
+            if (!previewPdfDoc || nextNum > previewTotalPages || previewCache[nextNum]) return;
+            
+            previewPdfDoc.getPage(nextNum).then(page => {
+                const viewport = page.getViewport({ scale: 1.5 });
+                const offCanvas = document.createElement('canvas');
+                offCanvas.width = viewport.width;
+                offCanvas.height = viewport.height;
+                const ctx = offCanvas.getContext('2d');
+                ctx.fillStyle = '#ffffff';
+                ctx.fillRect(0, 0, offCanvas.width, offCanvas.height);
 
-        projNextBtn.addEventListener('click', () => {
-            if (projectorWin && !projectorWin.closed && typeof projectorWin.nextPage === 'function') {
-                projectorWin.nextPage();
-                
-                if (previewPdfDoc && previewCurrentPage < previewTotalPages) {
-                    previewCurrentPage++;
-                    renderPreviewPage(previewCurrentPage);
-                }
-            }
-        });
-        
-        projPrevBtn.addEventListener('click', () => {
-            if (projectorWin && !projectorWin.closed && typeof projectorWin.prevPage === 'function') {
-                projectorWin.prevPage();
-                
-                if (previewPdfDoc && previewCurrentPage > 1) {
-                    previewCurrentPage--;
-                    renderPreviewPage(previewCurrentPage);
-                }
-            }
-        });
+                // Se renderiza pero no se muestra en pantalla, solo va a la memoria
+                page.render({ canvasContext: ctx, viewport: viewport }).promise.then(() => {
+                    previewCache[nextNum] = offCanvas;
+                });
+            }).catch(() => {});
+        }
         // ==============================================================
 
         document.addEventListener('keydown', function(e) {
